@@ -20,7 +20,3 @@ end
 def using_last(1,2,3)
 using_last.last
 end
-
-def using_size(array)
-
-end
