@@ -9,16 +9,16 @@ def using_sort(a,b,c)
 using_sort.sort
 end
 
-def using_reverse(array)
-
+def using_reverse(a,b,c)
+using_reverse.reverse
 end
 
-def using_first(array)
-
+def using_first(1,2,3)
+  using_first.first
 end
 
-def using_last(array)
-
+def using_last(1,2,3)
+using_last.last
 end
 
 def using_size(array)
